@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cutline</string>
+    <string name="file">الملف</string>
+    <string name="no_file_selected">لم يتم اختيار الملف</string>
+    <string name="language">لغة الكتابة</string>
+    <string name="english">اللغه الانجليزيه</string>
+    <string name="arabic">اللغه العربيه</string>
+    <string name="service">الخدمه</string>
+    <string name="todo">TODO</string>
+    <string name="notification_title">Cutline Service</string>
+    <string name="running_text">تم تشغيل الخدمه</string>
+    <string name="not_running_text">تم ايقاف الخدمه</string>
+    <string name="choose_file_to_write">برجاء اختيار الملف للكتابة.</string>
+    <string name="new_file">انشاء ملف جديد</string>
+    <string name="open_file">فتح ملف سابق</string>
+    <string name="enter_file_name">برجاء ادخال اسم الملف !!</string>
+    <string name="file_name">اسم الملف</string>
+    <string name="choose_folder_to_select">برجاء اختيار مجلد اخر او اختيار اسم اخر للملف.</string>
+    <string name="question">سؤال</string>
+    <string name="answer">إجابة</string>
+    <string name="other_question">سؤال اخر</string>
+    <string name="about_cutline">التطبيق هو خدمه تمكنك من تلخيص وتبسيط المراجع والكتب الخاصة بك بطريقة بسيطة وسهلة، فقط عن طريق اختيار السطور ونسخها.\n© <b>Softizone.</b></string>
+    <string name="contact_us">Contact us.</string>
+    <string name="start">تشغيل</string>
+    <string name="stop">ايقاف</string>
+    <string name="edit"><u>تعديل</u></string>
+    <string name="done"><u>تم</u></string>
+</resources>

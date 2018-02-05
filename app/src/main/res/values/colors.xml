@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/bgConnectedTob</color>
+    <color name="colorPrimaryDark">#454545</color>
+    <color name="colorAccent">@color/bgConnectedBottom</color>
+
+    <color name="bgConnectedBottom">#254b6b</color>
+    <color name="bgConnectedTob">#39bad9</color>
+    <color name="bgDisconnectedBottom">#6b6a60</color>
+    <color name="bgDisconnectedTob">#8cb1b3</color>
+</resources>

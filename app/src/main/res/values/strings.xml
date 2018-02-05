@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cutline</string>
+    <string name="file">File</string>
+    <string name="no_file_selected">No File selected</string>
+    <string name="language">File language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="service">Service</string>
+    <string name="todo">TODO</string>
+    <string name="notification_title">Cutline Service</string>
+    <string name="running_text">Service is running</string>
+    <string name="not_running_text">Service is not running</string>
+    <string name="choose_file_to_write">Please choose file to write.</string>
+    <string name="choose_folder_to_select">Please choose other folder or other file name.</string>
+    <string name="new_file">Create a File</string>
+    <string name="open_file">Select a File</string>
+    <string name="enter_file_name">Enter file name !!</string>
+    <string name="file_name">File name</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="other_question">Other question</string>
+    <string name="about_cutline">Cutline is an application which mission is to summarizes and simplifies your references and books using an easy way, only by selecting objects and copying them. \n© <b>Softizone.</b></string>
+    <string name="contact_us">Contact us.</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="edit"><u>edit</u></string>
+    <string name="done"><u>done</u></string>
+</resources>
